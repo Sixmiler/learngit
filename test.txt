@@ -3,3 +3,4 @@
 我们来验证一下 git checkout。
 第一步 先用 git remote add 跟远程服务器git库关联，再用 git push 将本地库中的内容更新到远程库中。
 指针切换到dev
+回顾一下基本操作
